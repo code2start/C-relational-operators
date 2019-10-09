@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "relationaloperators/1.0.0": {
+        "runtime": {
+          "relationaloperators.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "relationaloperators/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

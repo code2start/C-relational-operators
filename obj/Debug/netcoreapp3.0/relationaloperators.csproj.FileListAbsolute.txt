@@ -1,0 +1,11 @@
+C:\csharp\ar\relationaloperators\bin\Debug\netcoreapp3.0\relationaloperators.exe
+C:\csharp\ar\relationaloperators\bin\Debug\netcoreapp3.0\relationaloperators.deps.json
+C:\csharp\ar\relationaloperators\bin\Debug\netcoreapp3.0\relationaloperators.runtimeconfig.json
+C:\csharp\ar\relationaloperators\bin\Debug\netcoreapp3.0\relationaloperators.runtimeconfig.dev.json
+C:\csharp\ar\relationaloperators\bin\Debug\netcoreapp3.0\relationaloperators.dll
+C:\csharp\ar\relationaloperators\bin\Debug\netcoreapp3.0\relationaloperators.pdb
+C:\csharp\ar\relationaloperators\obj\Debug\netcoreapp3.0\relationaloperators.csprojAssemblyReference.cache
+C:\csharp\ar\relationaloperators\obj\Debug\netcoreapp3.0\relationaloperators.AssemblyInfoInputs.cache
+C:\csharp\ar\relationaloperators\obj\Debug\netcoreapp3.0\relationaloperators.AssemblyInfo.cs
+C:\csharp\ar\relationaloperators\obj\Debug\netcoreapp3.0\relationaloperators.dll
+C:\csharp\ar\relationaloperators\obj\Debug\netcoreapp3.0\relationaloperators.pdb
